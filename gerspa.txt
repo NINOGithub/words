@@ -1,164 +1,205 @@
-toco	Verb	v. 5 Stunden	
-toca	Verb	v. 5 Stunden	
-hacen	Verb	v. 5 Stunden	
-vemos	Verb	v. 5 Stunden	
-español	Nomen	v. 5 Stunden	
-pájaros	Nomen	v. 5 Stunden	
-madre	Nomen	v. 5 Stunden	
-abuela	Nomen	v. 5 Stunden	
-mamá	Nomen	v. 5 Stunden	
-abuelo	Nomen	v. 5 Stunden	
-primo	Nomen	v. 5 Stunden	
-hermano	Nomen	v. 5 Stunden	
-hermana	Nomen	v. 5 Stunden	
-hermanos	Nomen	v. 5 Stunden	
-argentino	Adjektiv	v. 7 Stunden	
-internacional	Adjektiv	v. 7 Stunden	
-mexicano	Adjektiv	v. 7 Stunden	
-norteamericana	Adjektiv	v. 7 Stunden	
-legal	Adjektiv	v. 7 Stunden	
-lógico	Adjektiv	v. 7 Stunden	
-numerosas	Adjektiv	v. 7 Stunden	
-similares	Adjektiv	v. 7 Stunden	
-infantil	Adjektiv	v. 7 Stunden	
-consciente	Adjektiv	v. 7 Stunden	
-elevado	Adjektiv	v. 7 Stunden	
-abierto	Adjektiv	v. 7 Stunden	
-derecha	Nomen	v. 7 Stunden	
-dirección	Nomen	v. 7 Stunden	
-vuelvo	Verb	v. 21 Stunden	
-tomo	Verb	v. 21 Stunden	
-importa	Verb	v. 21 Stunden	
-importo	Verb	v. 21 Stunden	
-mesa	Nomen	gestern	
-jabón	Nomen	gestern	
-sábana	Nomen	gestern	
-limpia	Verb	gestern	
-televisión	Nomen	gestern	
-costa	Nomen	gestern	
-cárcel	Nomen	gestern	
-palacio	Nomen	gestern	
-banco	Nomen	gestern	
-salón	Nomen	gestern	
-sala	Nomen	gestern	
-universidad	Nomen	gestern	
-ciudadano	Nomen	gestern	
-trabajador	Nomen	gestern	
-testigo	Nomen	gestern	
-revolución	Nomen	gestern	
-ciudadanos	Nomen	gestern	
-amigos	Nomen	gestern	
-ciudadana	Nomen	gestern	
-costumbre	Nomen	gestern	
-bilingüe	Adjektiv	gestern	
-bonito	Adjektiv	gestern	
-mayor	Adjektiv	gestern	
-útiles	Adjektiv	gestern	
-simple	Adjektiv	gestern	
-demasiado	Adverb	gestern	
-auto	Nomen	gestern	
-bola	Nomen	gestern	
-piezas	Nomen	gestern	
-tren	Nomen	gestern	
-pieza	Nomen	gestern	
-médico	Nomen	gestern	
-piernas	Nomen	gestern	
-piel	Nomen	gestern	
-cuello	Nomen	gestern	
-metro	Nomen	v. 2 Tagen	
-kilómetro	Nomen	v. 2 Tagen	
-patria	Nomen	v. 2 Tagen	
-zonas	Nomen	v. 2 Tagen	
-festival	Nomen	v. 2 Tagen	
-hacienda	Nomen	v. 2 Tagen	
-evolución	Nomen	v. 2 Tagen	
-paisaje	Nomen	v. 2 Tagen	
-lluvia	Nomen	v. 2 Tagen	
-sol	Nomen	v. 2 Tagen	
-hoja	Nomen	v. 2 Tagen	
-viento	Nomen	v. 2 Tagen	
-universo	Nomen	v. 2 Tagen	
-torneo	Nomen	v. 2 Tagen	
-fútbol	Nomen	v. 2 Tagen	
-equipos	Nomen	v. 2 Tagen	
-liga	Nomen	v. 2 Tagen	
-equipo	Nomen	v. 2 Tagen	
-contrato	Nomen	v. 2 Tagen	
-junta	Nomen	v. 2 Tagen	
-empresa	Nomen	v. 2 Tagen	
-venta	Nomen	v. 2 Tagen	
-cuenta	Nomen	v. 2 Tagen	
-profesión	Nomen	v. 2 Tagen	
-doctor	Nomen	v. 2 Tagen	
-juez	Nomen	v. 2 Tagen	
-rey	Nomen	v. 2 Tagen	
-propia	Adjektiv	v. 2 Tagen	
-corto	Adjektiv	v. 2 Tagen	
-sola	Adjektiv	v. 2 Tagen	
-incluye	Verb	v. 2 Tagen	
-abro	Verb	v. 2 Tagen	
-sueña	Verb	v. 2 Tagen	
-esa	Bestimmungswort	v. 2 Tagen	
-cada	Bestimmungswort	v. 2 Tagen	
-ambas	Bestimmungswort	v. 2 Tagen	
-tarde	Adverb	v. 2 Tagen	
-azúcar	Nomen	v. 2 Tagen	
-bandera	Nomen	v. 2 Tagen	
-nota	Nomen	v. 2 Tagen	
-máquina	Nomen	v. 2 Tagen	
-pantalla	Nomen	v. 2 Tagen	
-moto	Nomen	v. 2 Tagen	
-página	Nomen	v. 2 Tagen	
-moneda	Nomen	v. 2 Tagen	
-páginas	Nomen	v. 2 Tagen	
-pluma	Nomen	v. 2 Tagen	
-foto	Nomen	v. 2 Tagen	
-bomba	Nomen	v. 2 Tagen	
-bolsa	Nomen	v. 2 Tagen	
-bolsas	Nomen	v. 2 Tagen	
-dinero	Nomen	v. 2 Tagen	
-tarjeta	Nomen	v. 2 Tagen	
-caja	Nomen	v. 2 Tagen	
-radio	Nomen	v. 2 Tagen	
-cosas	Nomen	v. 2 Tagen	
-noche	Nomen	v. 2 Tagen	
-mayo	Nomen	v. 2 Tagen	
-momento	Nomen	v. 2 Tagen	
-anoche	Adverb	v. 2 Tagen	
-escritorio	Nomen	v. 3 Tagen	
-platos	Nomen	v. 3 Tagen	
-ventana	Nomen	v. 3 Tagen	
-baño	Nomen	v. 3 Tagen	
-plato	Nomen	v. 3 Tagen	
-sillas	Nomen	v. 3 Tagen	
-espejo	Nomen	v. 3 Tagen	
-esponja	Nomen	v. 3 Tagen	
-silla	Nomen	v. 3 Tagen	
-mismas	Adjektiv	v. 3 Tagen	
-último	Bestimmungswort	v. 3 Tagen	
-buen	Adjektiv	v. 3 Tagen	
-real	Adjektiv	v. 3 Tagen	
-justo	Adjektiv	v. 3 Tagen	
-inteligente	Adjektiv	v. 3 Tagen	
-dura	Adjektiv	v. 3 Tagen	
-nuevo	Adjektiv	v. 3 Tagen	
-local	Adjektiv	v. 3 Tagen	
-buena	Adjektiv	v. 3 Tagen	
-positiva	Adjektiv	v. 3 Tagen	
-cara	Adjektiv	v. 3 Tagen	
-buenos	Adjektiv	v. 3 Tagen	
-pasada	Adjektiv	v. 3 Tagen	
-muestra	Verb	v. 3 Tagen	
-conoce	Verb	v. 3 Tagen	
-comienza	Verb	v. 3 Tagen	
-sigue	Verb	v. 3 Tagen	
-otra	Bestimmungswort	v. 3 Tagen	
-todos	Bestimmungswort	v. 3 Tagen	
+carretera	Nomen	v. 3 Stunden	
+restaurante	Nomen	v. 3 Stunden	
+comunidad	Nomen	v. 3 Stunden	
+disponibles	Adjektiv	v. 3 Stunden	
+igual	Adjektiv	v. 3 Stunden	
+enfermo	Adjektiv	v. 3 Stunden	
+independiente	Adjektiv	v. 3 Stunden	
+oscuros	Adjektiv	v. 3 Stunden	
+amplio	Adjektiv	v. 3 Stunden	
+enferma	Adjektiv	v. 3 Stunden	
+este	Pronomen	v. 3 Stunden	
+otro	Pronomen	v. 3 Stunden	
+varias	Bestimmungswort	v. 3 Stunden	
+naturaleza	Nomen	v. 2 Stunden	
+luna	Nomen	v. 2 Stunden	
+cielo	Nomen	v. 2 Stunden	
+salsa	Nomen	v. 43 Minuten	
+azul	Adjektiv	v. 40 Minuten	
+baño	Nomen	v. 40 Minuten	
+naranja	Adjektiv	v. 40 Minuten	
+sillas	Nomen	v. 40 Minuten	
+cartera	Nomen	v. 40 Minuten	
+piso	Nomen	v. 40 Minuten	
+silla	Nomen	v. 40 Minuten	
+amarillas	Adjektiv	v. 40 Minuten	
+habitación	Nomen	v. 40 Minuten	
+policía	Nomen	v. 35 Minuten	
+mesera	Nomen	v. 35 Minuten	
+especialidad	Nomen	v. 35 Minuten	
+guardia	Nomen	v. 35 Minuten	
+ingeniera	Nomen	v. 35 Minuten	
+príncipe	Nomen	v. 35 Minuten	
+enfermero	Nomen	v. 35 Minuten	
+profesor	Nomen	v. 35 Minuten	
+minuto	Nomen	v. 17 Stunden	
+fiestas	Nomen	v. 17 Stunden	
+madrugada	Nomen	v. 17 Stunden	
+fiesta	Nomen	v. 17 Stunden	
+fecha	Nomen	v. 17 Stunden	
+minutos	Nomen	v. 17 Stunden	
+naturales	Adjektiv	v. 16 Stunden	
+tantos	Bestimmungswort	v. 16 Stunden	
+tantas	Bestimmungswort	v. 16 Stunden	
+local	Adjektiv	v. 16 Stunden	
+profesionales	Adjektiv	v. 16 Stunden	
+tradicionales	Adjektiv	v. 16 Stunden	
+mismas	Adjektiv	v. 16 Stunden	
+pescados	Nomen	v. 16 Stunden	
+argentino	Adjektiv	gestern	
+internacional	Adjektiv	gestern	
+mexicano	Adjektiv	gestern	
+norteamericana	Adjektiv	gestern	
+legal	Adjektiv	gestern	
+lógico	Adjektiv	gestern	
+numerosas	Adjektiv	gestern	
+similares	Adjektiv	gestern	
+infantil	Adjektiv	gestern	
+consciente	Adjektiv	gestern	
+elevado	Adjektiv	gestern	
+abierto	Adjektiv	gestern	
+derecha	Nomen	gestern	
+dirección	Nomen	gestern	
+toco	Verb	gestern	
+toca	Verb	gestern	
+hacen	Verb	gestern	
+vemos	Verb	gestern	
+español	Nomen	gestern	
+pájaros	Nomen	gestern	
+madre	Nomen	gestern	
+abuela	Nomen	gestern	
+mamá	Nomen	gestern	
+abuelo	Nomen	gestern	
+primo	Nomen	gestern	
+hermano	Nomen	gestern	
+hermana	Nomen	gestern	
+hermanos	Nomen	gestern	
+vuelvo	Verb	gestern	
+tomo	Verb	gestern	
+importa	Verb	gestern	
+importo	Verb	gestern	
+mesa	Nomen	v. 2 Tagen	
+jabón	Nomen	v. 2 Tagen	
+sábana	Nomen	v. 2 Tagen	
+limpia	Verb	v. 2 Tagen	
+televisión	Nomen	v. 2 Tagen	
+costa	Nomen	v. 2 Tagen	
+cárcel	Nomen	v. 2 Tagen	
+palacio	Nomen	v. 2 Tagen	
+banco	Nomen	v. 2 Tagen	
+salón	Nomen	v. 2 Tagen	
+sala	Nomen	v. 2 Tagen	
+universidad	Nomen	v. 2 Tagen	
+ciudadano	Nomen	v. 2 Tagen	
+trabajador	Nomen	v. 2 Tagen	
+testigo	Nomen	v. 2 Tagen	
+revolución	Nomen	v. 2 Tagen	
+ciudadanos	Nomen	v. 2 Tagen	
+amigos	Nomen	v. 2 Tagen	
+ciudadana	Nomen	v. 2 Tagen	
+costumbre	Nomen	v. 2 Tagen	
+bilingüe	Adjektiv	v. 2 Tagen	
+bonito	Adjektiv	v. 2 Tagen	
+mayor	Adjektiv	v. 2 Tagen	
+útiles	Adjektiv	v. 2 Tagen	
+simple	Adjektiv	v. 2 Tagen	
+demasiado	Adverb	v. 2 Tagen	
+auto	Nomen	v. 2 Tagen	
+bola	Nomen	v. 2 Tagen	
+piezas	Nomen	v. 2 Tagen	
+tren	Nomen	v. 2 Tagen	
+pieza	Nomen	v. 2 Tagen	
+médico	Nomen	v. 2 Tagen	
+piernas	Nomen	v. 2 Tagen	
+piel	Nomen	v. 2 Tagen	
+cuello	Nomen	v. 2 Tagen	
+patria	Nomen	v. 3 Tagen	
+zonas	Nomen	v. 3 Tagen	
+festival	Nomen	v. 3 Tagen	
+hacienda	Nomen	v. 3 Tagen	
+evolución	Nomen	v. 3 Tagen	
+paisaje	Nomen	v. 3 Tagen	
+lluvia	Nomen	v. 3 Tagen	
+sol	Nomen	v. 3 Tagen	
+hoja	Nomen	v. 3 Tagen	
+viento	Nomen	v. 3 Tagen	
+universo	Nomen	v. 3 Tagen	
+torneo	Nomen	v. 3 Tagen	
+fútbol	Nomen	v. 3 Tagen	
+equipos	Nomen	v. 3 Tagen	
+liga	Nomen	v. 3 Tagen	
+equipo	Nomen	v. 3 Tagen	
+contrato	Nomen	v. 3 Tagen	
+junta	Nomen	v. 3 Tagen	
+empresa	Nomen	v. 3 Tagen	
+venta	Nomen	v. 3 Tagen	
+cuenta	Nomen	v. 3 Tagen	
+profesión	Nomen	v. 3 Tagen	
+doctor	Nomen	v. 3 Tagen	
+juez	Nomen	v. 3 Tagen	
+rey	Nomen	v. 3 Tagen	
+propia	Adjektiv	v. 3 Tagen	
+corto	Adjektiv	v. 3 Tagen	
+sola	Adjektiv	v. 3 Tagen	
+incluye	Verb	v. 3 Tagen	
+abro	Verb	v. 3 Tagen	
+sueña	Verb	v. 3 Tagen	
+esa	Bestimmungswort	v. 3 Tagen	
+cada	Bestimmungswort	v. 3 Tagen	
+ambas	Bestimmungswort	v. 3 Tagen	
+tarde	Adverb	v. 3 Tagen	
+azúcar	Nomen	v. 3 Tagen	
+bandera	Nomen	v. 3 Tagen	
+nota	Nomen	v. 3 Tagen	
+máquina	Nomen	v. 3 Tagen	
+pantalla	Nomen	v. 3 Tagen	
+moto	Nomen	v. 3 Tagen	
+página	Nomen	v. 3 Tagen	
+moneda	Nomen	v. 3 Tagen	
+páginas	Nomen	v. 3 Tagen	
+pluma	Nomen	v. 3 Tagen	
+foto	Nomen	v. 3 Tagen	
+bomba	Nomen	v. 3 Tagen	
+bolsa	Nomen	v. 3 Tagen	
+bolsas	Nomen	v. 3 Tagen	
+dinero	Nomen	v. 3 Tagen	
+tarjeta	Nomen	v. 3 Tagen	
+caja	Nomen	v. 3 Tagen	
+radio	Nomen	v. 3 Tagen	
+cosas	Nomen	v. 3 Tagen	
+metro	Nomen	v. 3 Tagen	
+kilómetro	Nomen	v. 3 Tagen	
+noche	Nomen	v. 3 Tagen	
+mayo	Nomen	v. 3 Tagen	
+momento	Nomen	v. 3 Tagen	
+anoche	Adverb	v. 3 Tagen	
+escritorio	Nomen	v. 4 Tagen	
+platos	Nomen	v. 4 Tagen	
+ventana	Nomen	v. 4 Tagen	
+plato	Nomen	v. 4 Tagen	
+espejo	Nomen	v. 4 Tagen	
+esponja	Nomen	v. 4 Tagen	
+buen	Adjektiv	v. 4 Tagen	
+real	Adjektiv	v. 4 Tagen	
+justo	Adjektiv	v. 4 Tagen	
+inteligente	Adjektiv	v. 4 Tagen	
+dura	Adjektiv	v. 4 Tagen	
+nuevo	Adjektiv	v. 4 Tagen	
+buena	Adjektiv	v. 4 Tagen	
+positiva	Adjektiv	v. 4 Tagen	
+cara	Adjektiv	v. 4 Tagen	
+buenos	Adjektiv	v. 4 Tagen	
+pasada	Adjektiv	v. 4 Tagen	
+muestra	Verb	v. 4 Tagen	
+conoce	Verb	v. 4 Tagen	
+comienza	Verb	v. 4 Tagen	
+sigue	Verb	v. 4 Tagen	
+otra	Bestimmungswort	v. 4 Tagen	
+todos	Bestimmungswort	v. 4 Tagen	
 toro	Nomen	v. 4 Tagen	
 blanca	Adjektiv	v. 4 Tagen	
 colores	Nomen	v. 4 Tagen	
 estación	Nomen	v. 4 Tagen	
-madrugada	Nomen	v. 4 Tagen	
 blanco	Adjektiv	v. 4 Tagen	
 verde	Adjektiv	v. 4 Tagen	
 calendario	Nomen	v. 4 Tagen	
@@ -167,33 +208,32 @@ cadena	Nomen	v. 4 Tagen
 papel	Nomen	v. 4 Tagen	
 mochila	Nomen	v. 4 Tagen	
 polvo	Nomen	v. 4 Tagen	
-año	Nomen	v. 5 Tagen	
-junio	Nomen	v. 5 Tagen	
-empresario	Nomen	v. 5 Tagen	
-capitán	Nomen	v. 5 Tagen	
-periodista	Nomen	v. 5 Tagen	
-cocinero	Nomen	v. 5 Tagen	
-mejores	Adjektiv	v. 5 Tagen	
-tradicional	Adjektiv	v. 5 Tagen	
-entro	Verb	v. 5 Tagen	
-zapato	Nomen	v. 6 Tagen	
-abrigos	Nomen	v. 6 Tagen	
-botas	Nomen	v. 6 Tagen	
-esposa	Nomen	v. 6 Tagen	
-abril	Nomen	v. 6 Tagen	
-cita	Nomen	v. 6 Tagen	
-dormitorio	Nomen	v. 6 Tagen	
-sartén	Nomen	v. 6 Tagen	
-sacerdote	Nomen	v. 6 Tagen	
-jefe	Nomen	v. 6 Tagen	
-pequeña	Adjektiv	v. 6 Tagen	
-propios	Adjektiv	v. 6 Tagen	
-reciente	Adjektiv	v. 6 Tagen	
-familiar	Adjektiv	v. 6 Tagen	
-próximo	Adjektiv	v. 6 Tagen	
-importante	Adjektiv	v. 6 Tagen	
-tradicionales	Adjektiv	v. 6 Tagen	
-finales	Adjektiv	v. 6 Tagen	
+año	Nomen	v. 6 Tagen	
+junio	Nomen	v. 6 Tagen	
+empresario	Nomen	v. 6 Tagen	
+capitán	Nomen	v. 6 Tagen	
+periodista	Nomen	v. 6 Tagen	
+cocinero	Nomen	v. 6 Tagen	
+mejores	Adjektiv	v. 6 Tagen	
+tradicional	Adjektiv	v. 6 Tagen	
+entro	Verb	v. 6 Tagen	
+zapato	Nomen	v. 1 Woche	
+abrigos	Nomen	v. 1 Woche	
+botas	Nomen	v. 1 Woche	
+esposa	Nomen	v. 1 Woche	
+abril	Nomen	v. 1 Woche	
+cita	Nomen	v. 1 Woche	
+dormitorio	Nomen	v. 1 Woche	
+sartén	Nomen	v. 1 Woche	
+sacerdote	Nomen	v. 1 Woche	
+jefe	Nomen	v. 1 Woche	
+pequeña	Adjektiv	v. 1 Woche	
+propios	Adjektiv	v. 1 Woche	
+reciente	Adjektiv	v. 1 Woche	
+familiar	Adjektiv	v. 1 Woche	
+próximo	Adjektiv	v. 1 Woche	
+importante	Adjektiv	v. 1 Woche	
+finales	Adjektiv	v. 1 Woche	
 quieres	Verb	v. 1 Woche	
 nada	Verb	v. 1 Woche	
 camina	Verb	v. 1 Woche	
@@ -203,7 +243,6 @@ semanas	Nomen	v. 1 Woche
 primavera	Nomen	v. 1 Woche	
 vaso	Nomen	v. 1 Woche	
 cuántos	Bestimmungswort	v. 1 Woche	
-azul	Adjektiv	v. 1 Woche	
 mediodía	Nomen	v. 1 Woche	
 negro	Adjektiv	v. 1 Woche	
 marzo	Nomen	v. 1 Woche	
@@ -226,15 +265,17 @@ columna	Nomen	v. 1 Woche
 bicicleta	Nomen	v. 1 Woche	
 padre	Nomen	v. 1 Woche	
 solo	Adjektiv	v. 1 Woche	
-escalera	Nomen	v. 1 Woche	
-cuántos	Pronomen	v. 1 Woche	
-mes	Nomen	v. 1 Woche	
+son	Verb	v. 35 Minuten	
+él	Pronomen	v. 35 Minuten	
+con	Präposition	v. 35 Minuten	
+el	Bestimmungswort	v. 35 Minuten	
+es	Verb	v. 35 Minuten	
+soy	Verb	v. 35 Minuten	
 noviembre	Nomen	v. 1 Woche	
 agosto	Nomen	v. 1 Woche	
 hasta	Präposition	v. 1 Woche	
 estudiante	Nomen	v. 1 Woche	
 poeta	Nomen	v. 1 Woche	
-profesor	Nomen	v. 1 Woche	
 artista	Nomen	v. 1 Woche	
 ingeniero	Nomen	v. 1 Woche	
 mejor	Adjektiv	v. 1 Woche	
@@ -245,12 +286,16 @@ personales	Adjektiv	v. 1 Woche
 estáis	Verb	v. 1 Woche	
 están	Verb	v. 1 Woche	
 todo	Bestimmungswort	v. 1 Woche	
+escalera	Nomen	v. 1 Woche	
+cuántos	Pronomen	v. 1 Woche	
+mes	Nomen	v. 1 Woche	
+las	Bestimmungswort	v. 40 Minuten	
+la	Bestimmungswort	v. 43 Minuten	
 suéter	Nomen	v. 1 Woche	
 ropa	Nomen	v. 1 Woche	
 ve	Verb	v. 1 Woche	
 corro	Verb	v. 1 Woche	
 cocino	Verb	v. 1 Woche	
-policía	Nomen	v. 1 Woche	
 pintor	Nomen	v. 1 Woche	
 mismo	Adjektiv	v. 1 Woche	
 pasta	Nomen	v. 1 Woche	
@@ -259,10 +304,8 @@ llega	Verb	v. 1 Woche
 pesa	Verb	v. 1 Woche	
 acaba	Verb	v. 1 Woche	
 vegetariano	Adjektiv	v. 1 Woche	
-minuto	Nomen	v. 1 Woche	
 octubre	Nomen	v. 1 Woche	
 cocina	Nomen	v. 1 Woche	
-cartera	Nomen	v. 1 Woche	
 techo	Nomen	v. 1 Woche	
 grande	Adjektiv	v. 1 Woche	
 enorme	Adjektiv	v. 1 Woche	
@@ -272,17 +315,16 @@ importantes	Adjektiv	v. 1 Woche
 viejo	Adjektiv	v. 1 Woche	
 recientes	Adjektiv	v. 1 Woche	
 años	Nomen	v. 1 Woche	
-juntos	Adjektiv	v. 1 Woche	
-pobre	Adjektiv	v. 1 Woche	
-actores	Nomen	v. 1 Woche	
-príncipe	Nomen	v. 1 Woche	
-sacerdotes	Nomen	v. 1 Woche	
-actor	Nomen	v. 1 Woche	
-mesero	Nomen	v. 1 Woche	
-soldado	Nomen	v. 1 Woche	
-única	Adjektiv	v. 1 Woche	
-todas	Bestimmungswort	v. 1 Woche	
-lámpara	Nomen	v. 1 Woche	
+juntos	Adjektiv	v. 2 Wochen	
+pobre	Adjektiv	v. 2 Wochen	
+lámpara	Nomen	v. 2 Wochen	
+actores	Nomen	v. 2 Wochen	
+sacerdotes	Nomen	v. 2 Wochen	
+actor	Nomen	v. 2 Wochen	
+mesero	Nomen	v. 2 Wochen	
+soldado	Nomen	v. 2 Wochen	
+única	Adjektiv	v. 2 Wochen	
+todas	Bestimmungswort	v. 2 Wochen	
 respeta	Verb	v. 2 Wochen	
 amarillo	Adjektiv	v. 2 Wochen	
 veo	Verb	v. 2 Wochen	
@@ -295,13 +337,11 @@ abrigo	Nomen	v. 2 Wochen
 altas	Adjektiv	v. 2 Wochen	
 gatos	Nomen	v. 2 Wochen	
 secadora	Nomen	v. 2 Wochen	
-guardia	Nomen	v. 2 Wochen	
 secretaria	Nomen	v. 2 Wochen	
 autor	Nomen	v. 2 Wochen	
 conductor	Nomen	v. 2 Wochen	
 miércoles	Nomen	v. 2 Wochen	
 mañana	Nomen	v. 2 Wochen	
-naturales	Adjektiv	v. 2 Wochen	
 pública	Adjektiv	v. 2 Wochen	
 populares	Adjektiv	v. 2 Wochen	
 conocen	Verb	v. 2 Wochen	
@@ -313,24 +353,44 @@ duermen	Verb	v. 2 Wochen
 cuchara	Nomen	v. 2 Wochen	
 abogado	Nomen	v. 2 Wochen	
 vuelve	Verb	v. 2 Wochen	
+positivo	Adjektiv	v. 2 Wochen	
+diferentes	Adjektiv	v. 2 Wochen	
+rápidamente	Adverb	v. 2 Wochen	
 vehículo	Nomen	v. 2 Wochen	
 campana	Nomen	v. 2 Wochen	
 dólar	Nomen	v. 2 Wochen	
 vehículos	Nomen	v. 2 Wochen	
-positivo	Adjektiv	v. 2 Wochen	
-diferentes	Adjektiv	v. 2 Wochen	
-rápidamente	Adverb	v. 2 Wochen	
-profesionales	Adjektiv	v. 2 Wochen	
-juega	Verb	v. 2 Wochen	
-llevo	Verb	v. 2 Wochen	
-sombreros	Nomen	v. 2 Wochen	
-pago	Verb	v. 2 Wochen	
-cajeros	Nomen	v. 2 Wochen	
-maestro	Nomen	v. 2 Wochen	
+yo	Pronomen	v. 2 Stunden	
+en	Präposition	v. 2 Stunden	
+cajeros	Nomen	v. 3 Wochen	
+maestro	Nomen	v. 3 Wochen	
+juega	Verb	v. 3 Wochen	
+llevo	Verb	v. 3 Wochen	
+sombreros	Nomen	v. 3 Wochen	
+pago	Verb	v. 3 Wochen	
+caballo	Nomen	v. 3 Stunden	
+ella	Pronomen	v. 3 Stunden	
+ellos	Pronomen	v. 3 Stunden	
+más	Adverb	v. 3 Stunden	
+no	Adverb	v. 3 Stunden	
+lo	Pronomen	v. 3 Stunden	
+mi	Bestimmungswort	v. 3 Stunden	
+mis	Bestimmungswort	v. 3 Stunden	
+eso	Pronomen	v. 3 Stunden	
+los	Bestimmungswort	v. 3 Stunden	
+sí	Adverb	v. 3 Stunden	
+que	Konjunktion	v. 3 Stunden	
+niño	Nomen	v. 3 Stunden	
+de	Präposition	v. 3 Stunden	
 así	Adverb	v. 3 Wochen	
 histórica	Adjektiv	v. 3 Wochen	
 posible	Adjektiv	v. 3 Wochen	
 inteligentes	Adjektiv	v. 3 Wochen	
+su	Bestimmungswort	v. 3 Stunden	
+dónde	Adverb	v. 3 Stunden	
+tú	Pronomen	v. 3 Stunden	
+me	Pronomen	v. 3 Stunden	
+abre	Verb	v. 3 Wochen	
 este	Bestimmungswort	v. 3 Wochen	
 pocas	Bestimmungswort	v. 3 Wochen	
 algunas	Bestimmungswort	v. 3 Wochen	
@@ -338,63 +398,37 @@ algunos	Bestimmungswort	v. 3 Wochen
 muchas	Bestimmungswort	v. 3 Wochen	
 niñas	Nomen	v. 3 Wochen	
 fácilmente	Adverb	v. 3 Wochen	
+sótano	Nomen	v. 3 Wochen	
 pasado	Adjektiv	v. 3 Wochen	
 popular	Adjektiv	v. 3 Wochen	
-abre	Verb	v. 3 Wochen	
-sótano	Nomen	v. 3 Wochen	
-duerme	Verb	v. 3 Wochen	
 rato	Nomen	v. 3 Wochen	
-fiestas	Nomen	v. 3 Wochen	
 artistas	Nomen	v. 3 Wochen	
-enfermero	Nomen	v. 3 Wochen	
 profesora	Nomen	v. 3 Wochen	
+duerme	Verb	v. 3 Wochen	
+fruta	Nomen	v. 43 Minuten	
+limón	Nomen	v. 43 Minuten	
 elefantes	Nomen	v. 3 Wochen	
 pato	Nomen	v. 3 Wochen	
-amarillas	Adjektiv	v. 3 Wochen	
 rojo	Adjektiv	v. 3 Wochen	
-la	Bestimmungswort	v. 5 Stunden	
-son	Verb	v. 5 Stunden	
-él	Pronomen	v. 5 Stunden	
-mi	Bestimmungswort	v. 5 Stunden	
-es	Verb	v. 5 Stunden	
-y	Konjunktion	v. 5 Stunden	
-gracias	Interjektion	v. 5 Stunden	
 doble	Nomen	v. 3 Wochen	
 tercer	Bestimmungswort	v. 3 Wochen	
 ésta	Pronomen	v. 3 Wochen	
 ambos	Bestimmungswort	v. 3 Wochen	
 aquel	Bestimmungswort	v. 3 Wochen	
 aquella	Bestimmungswort	v. 3 Wochen	
-horno	Nomen	v. 3 Wochen	
 malo	Adjektiv	v. 3 Wochen	
 da	Verb	v. 3 Wochen	
 estás	Verb	v. 3 Wochen	
 estoy	Verb	v. 3 Wochen	
 estamos	Verb	v. 3 Wochen	
+horno	Nomen	v. 3 Wochen	
+cebolla	Nomen	v. 43 Minuten	
 vez	Nomen	v. 3 Wochen	
-su	Bestimmungswort	v. 7 Stunden	
-las	Bestimmungswort	v. 7 Stunden	
-esto	Pronomen	v. 7 Stunden	
-el	Bestimmungswort	v. 7 Stunden	
-de	Präposition	v. 7 Stunden	
-a	Präposition	v. 7 Stunden	
-no	Adverb	v. 7 Stunden	
-tres	Zahl	v. 7 Stunden	
-yo	Pronomen	v. 7 Stunden	
-los	Bestimmungswort	v. 7 Stunden	
-sí	Adverb	v. 7 Stunden	
-ella	Pronomen	v. 7 Stunden	
-ellos	Pronomen	v. 7 Stunden	
-sus	Bestimmungswort	v. 7 Stunden	
-eres	Verb	v. 7 Stunden	
-soy	Verb	v. 7 Stunden	
-coronel	Nomen	v. 3 Wochen	
-ingeniera	Nomen	v. 3 Wochen	
-próxima	Adjektiv	v. 3 Wochen	
-mayores	Adjektiv	v. 3 Wochen	
-primero	Adjektiv	v. 3 Wochen	
-cuánto	Bestimmungswort	v. 3 Wochen	
-en	Präposition	v. 7 Stunden	
+coronel	Nomen	v. 4 Wochen	
+próxima	Adjektiv	v. 4 Wochen	
+mayores	Adjektiv	v. 4 Wochen	
+primero	Adjektiv	v. 4 Wochen	
+cuánto	Bestimmungswort	v. 4 Wochen	
 fuera	Verb	v. 4 Wochen	
 hicieras	Verb	v. 4 Wochen	
 hubiera	Verb	v. 4 Wochen	
@@ -405,6 +439,9 @@ escribirían	Verb	v. 4 Wochen
 comerían	Verb	v. 4 Wochen	
 diría	Verb	v. 4 Wochen	
 sería	Verb	v. 4 Wochen	
+requiere	Verb	v. 4 Wochen	
+cuenta	Verb	v. 4 Wochen	
+cierra	Verb	v. 4 Wochen	
 siguen	Verb	v. 4 Wochen	
 temporada	Nomen	v. 4 Wochen	
 comandante	Nomen	v. 4 Wochen	
@@ -414,10 +451,8 @@ presenta	Verb	v. 4 Wochen
 toma	Verb	v. 4 Wochen	
 tomamos	Verb	v. 4 Wochen	
 presentamos	Verb	v. 4 Wochen	
-requiere	Verb	v. 4 Wochen	
-cuenta	Verb	v. 4 Wochen	
-cierra	Verb	v. 4 Wochen	
-me	Pronomen	v. 7 Stunden	
+tomate	Nomen	v. 43 Minuten	
+papa	Nomen	v. 43 Minuten	
 firmamos	Verb	v. 4 Wochen	
 aparecen	Verb	v. 4 Wochen	
 aparece	Verb	v. 4 Wochen	
@@ -436,23 +471,28 @@ abogados	Nomen	v. 4 Wochen
 pantalones	Nomen	v. 4 Wochen	
 cinturón	Nomen	v. 4 Wochen	
 contra	Präposition	v. 4 Wochen	
-miraba	Verb	v. 4 Wochen	
-esperabas	Verb	v. 4 Wochen	
-hablaba	Verb	v. 4 Wochen	
-seguían	Verb	v. 4 Wochen	
-trataba	Verb	v. 4 Wochen	
-invierno	Nomen	v. 4 Wochen	
-cuchillo	Nomen	v. 4 Wochen	
-carpintera	Nomen	v. 4 Wochen	
-carpintero	Nomen	v. 4 Wochen	
-entrega	Verb	v. 4 Wochen	
-imposible	Adjektiv	v. 4 Wochen	
-normal	Adjektiv	v. 4 Wochen	
-segura	Adjektiv	v. 4 Wochen	
-rápido	Adjektiv	v. 4 Wochen	
-bueno	Adjektiv	v. 4 Wochen	
-esposo	Nomen	v. 4 Wochen	
-marido	Nomen	v. 4 Wochen	
+miraba	Verb	v. 1 Monat	
+esperabas	Verb	v. 1 Monat	
+hablaba	Verb	v. 1 Monat	
+seguían	Verb	v. 1 Monat	
+trataba	Verb	v. 1 Monat	
+invierno	Nomen	v. 1 Monat	
+cuchillo	Nomen	v. 1 Monat	
+carpintera	Nomen	v. 1 Monat	
+carpintero	Nomen	v. 1 Monat	
+comer	Verb	v. 3 Stunden	
+entrega	Verb	v. 1 Monat	
+imposible	Adjektiv	v. 1 Monat	
+normal	Adjektiv	v. 1 Monat	
+segura	Adjektiv	v. 1 Monat	
+rápido	Adjektiv	v. 1 Monat	
+bueno	Adjektiv	v. 1 Monat	
+esposo	Nomen	v. 1 Monat	
+marido	Nomen	v. 1 Monat	
+conmigo	Präposition	v. 3 Stunden	
+daba	Verb	v. 1 Monat	
+iban	Verb	v. 1 Monat	
+sabía	Verb	v. 1 Monat	
 teníamos	Verb	v. 1 Monat	
 bebías	Verb	v. 1 Monat	
 hacía	Verb	v. 1 Monat	
@@ -461,70 +501,68 @@ bebía	Verb	v. 1 Monat
 comía	Verb	v. 1 Monat	
 era	Verb	v. 1 Monat	
 estaba	Verb	v. 1 Monat	
-daba	Verb	v. 1 Monat	
-iban	Verb	v. 1 Monat	
-sabía	Verb	v. 1 Monat	
-menor	Adjektiv	v. 1 Monat	
 necesario	Adjektiv	v. 1 Monat	
+menor	Adjektiv	v. 1 Monat	
 caros	Adjektiv	v. 1 Monat	
 personal	Adjektiv	v. 1 Monat	
+libro	Nomen	v. 16 Stunden	
+somos	Verb	v. 16 Stunden	
 públicos	Adjektiv	v. 1 Monat	
 cajeras	Nomen	v. 1 Monat	
 siguiente	Adjektiv	v. 1 Monat	
 bajos	Adjektiv	v. 1 Monat	
+pollo	Nomen	v. 43 Minuten	
 vestidos	Nomen	v. 1 Monat	
+sobre	Präposition	v. 3 Stunden	
+emparedado	Nomen	v. 43 Minuten	
 agente	Nomen	v. 1 Monat	
 sábado	Nomen	v. 1 Monat	
-adiós	Interjektion	v. 1 Monat	
 negra	Adjektiv	v. 1 Monat	
-queso	Nomen	v. 21 Stunden	
-panadero	Nomen	v. 1 Monat	
-especialistas	Nomen	v. 1 Monat	
+adiós	Interjektion	v. 1 Monat	
+regular	Adjektiv	v. 3 Stunden	
 dueño	Nomen	v. 1 Monat	
 granjero	Nomen	v. 1 Monat	
 atleta	Nomen	v. 1 Monat	
 reina	Nomen	v. 1 Monat	
 secretario	Nomen	v. 1 Monat	
 atletas	Nomen	v. 1 Monat	
-refrigerador	Nomen	v. 1 Monat	
+panadero	Nomen	v. 1 Monat	
+especialistas	Nomen	v. 1 Monat	
+y	Konjunktion	gestern	
 cama	Nomen	v. 1 Monat	
 teléfono	Nomen	v. 1 Monat	
 lavadora	Nomen	v. 1 Monat	
-animales	Nomen	v. 5 Stunden	
-e	Konjunktion	v. 5 Stunden	
+refrigerador	Nomen	v. 1 Monat	
+gracias	Interjektion	gestern	
+esto	Pronomen	gestern	
+a	Präposition	gestern	
+tres	Zahl	gestern	
+sus	Bestimmungswort	gestern	
+eres	Verb	gestern	
 empleados	Nomen	v. 1 Monat	
-cepillo	Nomen	v. 1 Monat	
 sofá	Nomen	v. 1 Monat	
+cepillo	Nomen	v. 1 Monat	
 tío	Nomen	v. 1 Monat	
-aquí	Adverb	gestern	
-somos	Verb	gestern	
-tú	Pronomen	gestern	
-mis	Bestimmungswort	gestern	
-para	Präposition	gestern	
-con	Präposition	gestern	
-por	Präposition	gestern	
-agua	Nomen	gestern	
-dónde	Adverb	gestern	
-mañana	Adverb	gestern	
-febrero	Nomen	v. 1 Monat	
 septiembre	Nomen	v. 1 Monat	
 viernes	Nomen	v. 1 Monat	
 martes	Nomen	v. 1 Monat	
-fiesta	Nomen	v. 1 Monat	
-fecha	Nomen	v. 1 Monat	
 bebé	Nomen	v. 1 Monat	
 papá	Nomen	v. 1 Monat	
+sencillo	Adjektiv	v. 3 Stunden	
+queso	Nomen	gestern	
 abuelos	Nomen	v. 1 Monat	
 roja	Adjektiv	v. 1 Monat	
+pregunta	Nomen	v. 1 Monat	
+caminan	Verb	v. 1 Monat	
+camino	Verb	v. 1 Monat	
 corremos	Verb	v. 1 Monat	
 corres	Verb	v. 1 Monat	
 dormimos	Verb	v. 1 Monat	
 falda	Nomen	v. 1 Monat	
 calcetines	Nomen	v. 1 Monat	
-pregunta	Nomen	v. 1 Monat	
-caminan	Verb	v. 1 Monat	
-camino	Verb	v. 1 Monat	
 camisa	Nomen	v. 1 Monat	
+pista	Nomen	v. 3 Stunden	
+oficina	Nomen	v. 3 Stunden	
 bebemos	Verb	v. 1 Monat	
 lees	Verb	v. 1 Monat	
 coméis	Verb	v. 1 Monat	
@@ -532,9 +570,12 @@ escribes	Verb	v. 1 Monat
 escribe	Verb	v. 1 Monat	
 leéis	Verb	v. 1 Monat	
 escriben	Verb	v. 1 Monat	
-vino	Nomen	v. 7 Stunden	
-nuestras	Bestimmungswort	gestern	
-paso	Nomen	v. 7 Stunden	
+aquí	Adverb	v. 2 Tagen	
+para	Präposition	v. 2 Tagen	
+por	Präposition	v. 2 Tagen	
+agua	Nomen	v. 2 Tagen	
+mañana	Adverb	v. 2 Tagen	
+algo	Pronomen	v. 3 Stunden	
 beneficios	Nomen	v. 1 Monat	
 progresos	Nomen	v. 1 Monat	
 disciplinas	Nomen	v. 1 Monat	
@@ -560,13 +601,12 @@ destrucción	Nomen	v. 1 Monat
 rivales	Nomen	v. 1 Monat	
 símbolo	Nomen	v. 1 Monat	
 revisión	Nomen	v. 1 Monat	
-más	Adverb	v. 2 Tagen	
 conclusión	Nomen	v. 1 Monat	
 opciones	Nomen	v. 1 Monat	
 conclusiones	Nomen	v. 1 Monat	
 permiso	Nomen	v. 1 Monat	
 conservación	Nomen	v. 1 Monat	
-nos	Pronomen	v. 4 Wochen	
+nos	Pronomen	v. 1 Monat	
 aventura	Nomen	v. 1 Monat	
 transporte	Nomen	v. 1 Monat	
 introducción	Nomen	v. 1 Monat	
@@ -586,18 +626,14 @@ colección	Nomen	v. 1 Monat
 transformación	Nomen	v. 1 Monat	
 evidencia	Nomen	v. 1 Monat	
 obligación	Nomen	v. 1 Monat	
-ellas	Pronomen	v. 2 Tagen	
-que	Konjunktion	gestern	
-elefante	Nomen	v. 2 Tagen	
-oso	Nomen	v. 2 Tagen	
-gato	Nomen	v. 2 Tagen	
-qué	Pronomen	v. 2 Tagen	
+humo	Nomen	v. 2 Stunden	
 imaginación	Nomen	v. 1 Monat	
 dificultades	Nomen	v. 1 Monat	
 queremos	Verb	v. 1 Monat	
 quisiera	Verb	v. 1 Monat	
 quisieras	Verb	v. 1 Monat	
 quieren	Verb	v. 1 Monat	
+nadie	Pronomen	v. 3 Stunden	
 pude	Verb	v. 1 Monat	
 debería	Verb	v. 1 Monat	
 podría	Verb	v. 1 Monat	
@@ -612,6 +648,14 @@ digamos	Verb	v. 1 Monat
 pague	Verb	v. 1 Monat	
 ten	Verb	v. 1 Monat	
 tengan	Verb	v. 1 Monat	
+nuestras	Bestimmungswort	v. 2 Tagen	
+disponible	Adjektiv	v. 3 Stunden	
+al	Präposition	v. 3 Stunden	
+ellas	Pronomen	v. 3 Tagen	
+elefante	Nomen	v. 3 Tagen	
+oso	Nomen	v. 3 Tagen	
+gato	Nomen	v. 3 Tagen	
+qué	Pronomen	v. 3 Tagen	
 núcleo	Nomen	v. 1 Monat	
 proporción	Nomen	v. 1 Monat	
 observación	Nomen	v. 1 Monat	
@@ -623,7 +667,7 @@ fórmula	Nomen	v. 1 Monat
 velocidad	Nomen	v. 1 Monat	
 elemento	Nomen	v. 1 Monat	
 elementos	Nomen	v. 1 Monat	
-ayer	Adverb	v. 2 Tagen	
+instituto	Nomen	v. 3 Stunden	
 física	Nomen	v. 1 Monat	
 superficie	Nomen	v. 1 Monat	
 tecnología	Nomen	v. 1 Monat	
@@ -633,15 +677,9 @@ funciones	Nomen	v. 1 Monat
 punto	Nomen	v. 1 Monat	
 medidas	Nomen	v. 1 Monat	
 línea	Nomen	v. 1 Monat	
-jugo	Nomen	v. 2 Tagen	
-niño	Nomen	v. 3 Tagen	
-caballo	Nomen	v. 3 Tagen	
-eso	Pronomen	v. 3 Tagen	
-libros	Nomen	v. 3 Tagen	
-hombre	Nomen	v. 3 Tagen	
+ayer	Adverb	v. 3 Tagen	
 diferencia	Nomen	v. 1 Monat	
 legislación	Nomen	v. 1 Monat	
-pescado	Nomen	v. 3 Tagen	
 pobreza	Nomen	v. 1 Monat	
 imperio	Nomen	v. 1 Monat	
 estabilidad	Nomen	v. 1 Monat	
@@ -655,14 +693,14 @@ impuestos	Nomen	v. 1 Monat
 federación	Nomen	v. 1 Monat	
 independencia	Nomen	v. 1 Monat	
 cooperación	Nomen	v. 1 Monat	
-nuestra	Bestimmungswort	v. 7 Stunden	
 presupuesto	Nomen	v. 1 Monat	
 candidatos	Nomen	v. 1 Monat	
 estrategia	Nomen	v. 1 Monat	
 federal	Adjektiv	v. 1 Monat	
 conflictos	Nomen	v. 1 Monat	
-huevo	Nomen	v. 2 Tagen	
-mí	Pronomen	v. 7 Stunden	
+libros	Nomen	v. 4 Tagen	
+hombre	Nomen	v. 4 Tagen	
+pescado	Nomen	v. 4 Tagen	
 organismos	Nomen	v. 1 Monat	
 discurso	Nomen	v. 1 Monat	
 líder	Nomen	v. 1 Monat	
@@ -684,12 +722,15 @@ ministra	Nomen	v. 1 Monat
 políticos	Nomen	v. 1 Monat	
 ministro	Nomen	v. 1 Monat	
 derecho	Nomen	v. 1 Monat	
+jugo	Nomen	v. 3 Tagen	
 guerra	Nomen	v. 1 Monat	
 gobiernos	Nomen	v. 1 Monat	
+animales	Nomen	gestern	
+huevo	Nomen	v. 3 Tagen	
+e	Konjunktion	gestern	
 leche	Nomen	v. 4 Tagen	
 cartas	Nomen	v. 4 Tagen	
 animal	Nomen	v. 4 Tagen	
-usted	Pronomen	gestern	
 novela	Nomen	v. 1 Monat	
 letras	Nomen	v. 1 Monat	
 espectáculo	Nomen	v. 1 Monat	
@@ -699,21 +740,26 @@ instrumento	Nomen	v. 1 Monat
 sonido	Nomen	v. 1 Monat	
 moda	Nomen	v. 1 Monat	
 tocar	Verb	v. 1 Monat	
-sin	Präposition	gestern	
-hoy	Adverb	v. 2 Tagen	
+corriente	Nomen	v. 2 Stunden	
+raíz	Nomen	v. 2 Stunden	
 estilo	Nomen	v. 1 Monat	
 poesía	Nomen	v. 1 Monat	
 teatro	Nomen	v. 1 Monat	
 literatura	Nomen	v. 1 Monat	
-mujer	Nomen	v. 5 Tagen	
-nosotros	Pronomen	v. 5 Tagen	
-cuál	Pronomen	v. 5 Tagen	
-tu	Bestimmungswort	v. 7 Stunden	
-nuestro	Bestimmungswort	v. 6 Tagen	
-diario	Nomen	v. 6 Tagen	
-libro	Nomen	v. 6 Tagen	
-cuáles	Pronomen	v. 6 Tagen	
+oscuro	Adjektiv	v. 3 Stunden	
+mujer	Nomen	v. 6 Tagen	
+nosotros	Pronomen	v. 6 Tagen	
+cuál	Pronomen	v. 6 Tagen	
+vino	Nomen	gestern	
+hoy	Adverb	v. 3 Tagen	
+usted	Pronomen	v. 2 Tagen	
+tu	Bestimmungswort	gestern	
+nuestro	Bestimmungswort	v. 1 Woche	
+diario	Nomen	v. 1 Woche	
+cuáles	Pronomen	v. 1 Woche	
+paso	Nomen	gestern	
 llegará	Verb	v. 1 Monat	
+sin	Präposition	v. 2 Tagen	
 seremos	Verb	v. 1 Monat	
 beberán	Verb	v. 1 Monat	
 tendrás	Verb	v. 1 Monat	
@@ -722,8 +768,6 @@ comeremos	Verb	v. 1 Monat
 verán	Verb	v. 1 Monat	
 tendré	Verb	v. 1 Monat	
 será	Verb	v. 1 Monat	
-legales	Adjektiv	v. 7 Stunden	
-abierta	Adjektiv	v. 7 Stunden	
 santo	Adjektiv	v. 1 Monat	
 iglesias	Nomen	v. 1 Monat	
 iglesia	Nomen	v. 1 Monat	
@@ -734,8 +778,8 @@ dioses	Nomen	v. 1 Monat
 espíritus	Nomen	v. 1 Monat	
 ángel	Nomen	v. 1 Monat	
 alma	Nomen	v. 1 Monat	
-perdón	Nomen	v. 5 Stunden	
-del	Präposition	v. 2 Tagen	
+nada	Pronomen	v. 3 Stunden	
+que		v. 3 Stunden	
 publicidad	Nomen	v. 1 Monat	
 internet	Nomen	v. 1 Monat	
 estampillas	Nomen	v. 1 Monat	
@@ -752,6 +796,9 @@ lenguajes	Nomen	v. 1 Monat
 lenguaje	Nomen	v. 1 Monat	
 prensa	Nomen	v. 1 Monat	
 comunicaciones	Nomen	v. 1 Monat	
+células	Nomen	v. 2 Stunden	
+montaña	Nomen	v. 2 Stunden	
+perro	Nomen	v. 1 Woche	
 inversión	Nomen	v. 1 Monat	
 económica	Adjektiv	v. 1 Monat	
 negociación	Nomen	v. 1 Monat	
@@ -763,9 +810,9 @@ propiedad	Nomen	v. 1 Monat
 reunión	Nomen	v. 1 Monat	
 reuniones	Nomen	v. 1 Monat	
 oro	Nomen	v. 1 Monat	
-pescados	Nomen	v. 5 Tagen	
-perro	Nomen	v. 1 Woche	
-llegada	Nomen	v. 7 Stunden	
+sopa	Nomen	v. 1 Woche	
+mujeres	Nomen	gestern	
+arroz	Nomen	gestern	
 costo	Nomen	v. 1 Monat	
 productos	Nomen	v. 1 Monat	
 producto	Nomen	v. 1 Monat	
@@ -790,10 +837,7 @@ muerta	Adjektiv	v. 1 Monat
 muertos	Adjektiv	v. 1 Monat	
 cadáver	Nomen	v. 1 Monat	
 órganos	Nomen	v. 1 Monat	
-sopa	Nomen	v. 1 Woche	
-mujeres	Nomen	v. 7 Stunden	
-arroz	Nomen	v. 7 Stunden	
-simplemente	Adverb	gestern	
+del	Präposition	v. 3 Tagen	
 síntomas	Nomen	v. 1 Monat	
 pacientes	Nomen	v. 1 Monat	
 síntoma	Nomen	v. 1 Monat	
@@ -807,14 +851,19 @@ riesgos	Nomen	v. 1 Monat
 riesgo	Nomen	v. 1 Monat	
 corazón	Nomen	v. 1 Monat	
 ambulancia	Nomen	v. 1 Monat	
+puerto	Nomen	v. 3 Stunden	
+ruta	Nomen	v. 3 Stunden	
+comida	Nomen	v. 1 Woche	
 duele	Verb	v. 1 Monat	
 rodilla	Nomen	v. 1 Monat	
 pelo	Nomen	v. 1 Monat	
 estómago	Nomen	v. 1 Monat	
 manos	Nomen	v. 1 Monat	
 lengua	Nomen	v. 1 Monat	
-comida	Nomen	v. 1 Woche	
-como	Konjunktion	gestern	
+nuestra	Bestimmungswort	gestern	
+carne	Nomen	v. 1 Woche	
+menú	Nomen	v. 1 Woche	
+manzana	Nomen	v. 1 Woche	
 dedo	Nomen	v. 1 Monat	
 ojo	Nomen	v. 1 Monat	
 cabeza	Nomen	v. 1 Monat	
@@ -824,48 +873,38 @@ brazo	Nomen	v. 1 Monat
 boca	Nomen	v. 1 Monat	
 cuerpo	Nomen	v. 1 Monat	
 brazos	Nomen	v. 1 Monat	
-carne	Nomen	v. 1 Woche	
-menú	Nomen	v. 1 Woche	
-manzana	Nomen	v. 1 Woche	
-fresas	Nomen	v. 2 Tagen	
 diarios	Nomen	v. 1 Woche	
+mí	Pronomen	gestern	
+simplemente	Adverb	v. 2 Tagen	
 decirle	Pronomen	v. 1 Monat	
-cómo	Adverb	v. 6 Tagen	
-señal	Nomen	v. 7 Stunden	
-cinco	Zahl	v. 2 Tagen	
-lógica	Adjektiv	v. 7 Stunden	
-china	Eigenname	v. 7 Stunden	
-argentina	Eigenname	v. 7 Stunden	
-méxico	Eigenname	v. 7 Stunden	
-españa	Eigenname	v. 7 Stunden	
+fresas	Nomen	v. 3 Tagen	
+cómo	Adverb	v. 1 Woche	
 niña	Nomen	v. 2 Wochen	
+como	Konjunktion	v. 2 Tagen	
 caminar	Verb	v. 1 Monat	
-qué	Bestimmungswort	v. 3 Tagen	
-si	Konjunktion	v. 2 Tagen	
-víctima	Nomen	gestern	
-mono	Nomen	v. 2 Tagen	
-mía	Adjektiv	v. 2 Tagen	
-sólo	Adverb	gestern	
+cinco	Zahl	v. 3 Tagen	
+qué	Bestimmungswort	v. 4 Tagen	
 niños	Nomen	v. 2 Wochen	
 ratón	Nomen	v. 2 Wochen	
-hombres	Nomen	v. 7 Stunden	
-inmediatamente	Adverb	gestern	
-fresa	Nomen	v. 1 Woche	
+hombres	Nomen	gestern	
+fresa	Nomen	v. 2 Wochen	
+si	Konjunktion	v. 3 Tagen	
+mono	Nomen	v. 3 Tagen	
+mía	Adjektiv	v. 3 Tagen	
 deportes	Nomen	v. 1 Monat	
 cuatro	Zahl	v. 1 Monat	
-siempre	Adverb	gestern	
-al	Präposition	v. 21 Stunden	
+carta	Nomen	v. 4 Tagen	
+especiales	Adjektiv	v. 3 Stunden	
+volcán	Nomen	v. 2 Stunden	
+montañas	Nomen	v. 2 Stunden	
 gol	Nomen	v. 1 Monat	
 jugadores	Nomen	v. 1 Monat	
 jugador	Nomen	v. 1 Monat	
-izquierda	Nomen	v. 7 Stunden	
-tráfico	Nomen	v. 7 Stunden	
-entrada	Nomen	v. 7 Stunden	
-carta	Nomen	v. 3 Tagen	
-inglaterra	Eigenname	v. 7 Stunden	
-león	Nomen	v. 4 Tagen	
-sal	Nomen	v. 3 Tagen	
-cerca	Präposition	v. 3 Tagen	
+legales	Adjektiv	gestern	
+abierta	Adjektiv	gestern	
+esta	Pronomen	v. 3 Stunden	
+estas	Pronomen	v. 3 Stunden	
+víctima	Nomen	v. 2 Tagen	
 fracaso	Nomen	v. 1 Monat	
 definición	Nomen	v. 1 Monat	
 sueño	Nomen	v. 1 Monat	
@@ -874,9 +913,17 @@ excepción	Nomen	v. 1 Monat
 impacto	Nomen	v. 1 Monat	
 intensidad	Nomen	v. 1 Monat	
 experiencias	Nomen	v. 1 Monat	
-té	Nomen	v. 5 Tagen	
 ya	Adverb	v. 3 Wochen	
+león	Nomen	v. 4 Tagen	
+té	Nomen	v. 6 Tagen	
+sólo	Adverb	v. 2 Tagen	
+plaza	Nomen	v. 3 Stunden	
+sal	Nomen	v. 4 Tagen	
 sirve	Verb	v. 1 Woche	
+cerca	Präposition	v. 4 Tagen	
+se	Pronomen	v. 4 Wochen	
+llegada	Nomen	gestern	
+pan	Nomen	v. 4 Wochen	
 propuesta	Nomen	v. 1 Monat	
 significado	Nomen	v. 1 Monat	
 sesión	Nomen	v. 1 Monat	
@@ -889,20 +936,16 @@ factor	Nomen	v. 1 Monat
 esfuerzo	Nomen	v. 1 Monat	
 misión	Nomen	v. 1 Monat	
 perspectiva	Nomen	v. 1 Monat	
-oigo	Verb	v. 5 Stunden	
-lo	Pronomen	v. 3 Wochen	
-pájaro	Nomen	v. 4 Tagen	
-se	Pronomen	v. 4 Wochen	
+inmediatamente	Adverb	v. 2 Tagen	
+hola	Interjektion	v. 1 Woche	
+perdón	Nomen	gestern	
+desde	Präposition	v. 1 Woche	
 sombra	Nomen	v. 1 Monat	
 división	Nomen	v. 1 Monat	
 margen	Nomen	v. 1 Monat	
-tan	Adverb	v. 7 Stunden	
-hola	Interjektion	v. 1 Woche	
-pan	Nomen	v. 4 Wochen	
-bajo	Präposition	v. 6 Tagen	
-desde	Präposition	v. 1 Woche	
-hospital	Nomen	gestern	
-lugar	Nomen	gestern	
+pájaro	Nomen	v. 4 Tagen	
+bajo	Präposition	v. 1 Woche	
+siempre	Adverb	v. 2 Tagen	
 edición	Nomen	v. 1 Monat	
 situación	Nomen	v. 1 Monat	
 consecuencia	Nomen	v. 1 Monat	
@@ -911,137 +954,133 @@ intención	Nomen	v. 1 Monat
 relaciones	Nomen	v. 1 Monat	
 ceremonia	Nomen	v. 1 Monat	
 gesto	Nomen	v. 1 Monat	
-naturalmente	Adverb	v. 2 Tagen	
-según	Präposition	v. 3 Tagen	
 tus	Bestimmungswort	v. 1 Woche	
-numerosos	Adjektiv	v. 7 Stunden	
-tanto	Adverb	gestern	
 ustedes	Pronomen	v. 2 Wochen	
 gata	Nomen	v. 1 Monat	
-posiblemente	Adverb	v. 2 Tagen	
-lejos	Adverb	v. 2 Tagen	
-definitivamente	Adverb	v. 2 Tagen	
 muy	Adverb	v. 1 Monat	
 nunca	Adverb	v. 1 Monat	
-cerdo	Nomen	v. 4 Tagen	
 hay	Verb	v. 1 Monat	
-mientras	Konjunktion	v. 2 Tagen	
+según	Präposition	v. 4 Tagen	
+raíces	Nomen	v. 2 Stunden	
 quién	Pronomen	v. 2 Wochen	
 perfectamente	Adverb	v. 2 Wochen	
+cualquiera	Pronomen	v. 3 Stunden	
+naturalmente	Adverb	v. 3 Tagen	
+hospital	Nomen	v. 2 Tagen	
+lugar	Nomen	v. 2 Tagen	
+china	Eigenname	gestern	
+señal	Nomen	gestern	
 cerveza	Nomen	v. 1 Woche	
-absolutamente	Adverb	gestern	
-apenas	Adverb	gestern	
+cerdo	Nomen	v. 4 Tagen	
+lógica	Adjektiv	gestern	
+argentina	Eigenname	gestern	
+méxico	Eigenname	gestern	
+españa	Eigenname	gestern	
+hablar	Verb	v. 1 Monat	
+posiblemente	Adverb	v. 3 Tagen	
+lejos	Adverb	v. 3 Tagen	
+definitivamente	Adverb	v. 3 Tagen	
 rosa	Nomen	v. 2 Monaten	
 rosas	Nomen	v. 2 Monaten	
 arena	Nomen	v. 2 Monaten	
 estrella	Nomen	v. 2 Monaten	
-humo	Nomen	v. 2 Monaten	
 ambiente	Nomen	v. 2 Monaten	
-hablar	Verb	v. 1 Monat	
 nosotras	Pronomen	v. 2 Wochen	
-casi	Adverb	gestern	
-menos	Adverb	gestern	
-setenta	Zahl	v. 2 Tagen	
-montaña	Nomen	v. 2 Monaten	
-raíz	Nomen	v. 2 Monaten	
+mientras	Konjunktion	v. 3 Tagen	
 bosque	Nomen	v. 2 Monaten	
 hueso	Nomen	v. 2 Monaten	
 dientes	Nomen	v. 2 Monaten	
-recientemente	Adverb	v. 2 Tagen	
-tampoco	Adverb	v. 2 Tagen	
-entonces	Adverb	v. 2 Tagen	
+tanto	Adverb	v. 2 Tagen	
 planeta	Nomen	v. 2 Monaten	
 clima	Nomen	v. 2 Monaten	
 piedra	Nomen	v. 2 Monaten	
 gas	Nomen	v. 2 Monaten	
 piedras	Nomen	v. 2 Monaten	
 calor	Nomen	v. 2 Monaten	
-naturaleza	Nomen	v. 2 Monaten	
 especie	Nomen	v. 2 Monaten	
 madera	Nomen	v. 2 Monaten	
-gran	Adjektiv	v. 2 Tagen	
-manzanas	Nomen	v. 5 Tagen	
-tortuga	Nomen	v. 4 Tagen	
 fuego	Nomen	v. 2 Monaten	
-volcán	Nomen	v. 2 Monaten	
-habitación	Nomen	gestern	
-todavía	Adverb	gestern	
-luna	Nomen	v. 2 Monaten	
+manzanas	Nomen	v. 6 Tagen	
+escribir	Verb	v. 2 Monaten	
+tortuga	Nomen	v. 4 Tagen	
+absolutamente	Adverb	v. 2 Tagen	
+setenta	Zahl	v. 3 Tagen	
 árbol	Nomen	v. 2 Monaten	
-cielo	Nomen	v. 2 Monaten	
 mar	Nomen	v. 2 Monaten	
 flor	Nomen	v. 2 Monaten	
 pasto	Nomen	v. 2 Monaten	
-generalmente	Adverb	v. 2 Tagen	
-completamente	Adverb	v. 2 Tagen	
-pero	Konjunktion	v. 6 Tagen	
-escribir	Verb	v. 2 Monaten	
-entre	Präposition	v. 6 Tagen	
-naranja	Nomen	v. 4 Tagen	
-conejo	Nomen	v. 1 Woche	
-desayuno	Nomen	v. 1 Woche	
+recientemente	Adverb	v. 3 Tagen	
+tampoco	Adverb	v. 3 Tagen	
+entonces	Adverb	v. 3 Tagen	
+pero	Konjunktion	v. 1 Woche	
+gran	Adjektiv	v. 3 Tagen	
+apenas	Adverb	v. 2 Tagen	
+entre	Präposition	v. 1 Woche	
+izquierda	Nomen	gestern	
+tráfico	Nomen	gestern	
+entrada	Nomen	gestern	
+desayuno	Nomen	v. 2 Wochen	
+inglaterra	Eigenname	gestern	
 donde		v. 2 Wochen	
 luego	Adverb	v. 2 Wochen	
-actualmente	Adverb	v. 2 Tagen	
-almuerzo	Nomen	v. 3 Tagen	
+conejo	Nomen	v. 1 Woche	
+casi	Adverb	v. 2 Tagen	
+menos	Adverb	v. 2 Tagen	
+generalmente	Adverb	v. 3 Tagen	
+completamente	Adverb	v. 3 Tagen	
+gatas	Nomen	v. 1 Monat	
+naranja	Nomen	v. 4 Tagen	
 además	Adverb	v. 3 Wochen	
 prácticamente	Adverb	v. 3 Wochen	
-gatas	Nomen	v. 1 Monat	
 disculpe	Verb	v. 3 Wochen	
-hacia	Präposition	v. 3 Tagen	
-despacio	Adverb	v. 1 Woche	
-solamente	Adverb	v. 2 Tagen	
-amiga	Nomen	gestern	
-pareja	Nomen	gestern	
+despacio	Adverb	v. 2 Wochen	
+tan	Adverb	gestern	
+todavía	Adverb	v. 2 Tagen	
+almuerzo	Nomen	v. 4 Tagen	
+actualmente	Adverb	v. 3 Tagen	
 gafas	Nomen	v. 2 Wochen	
-principalmente	Adverb	v. 2 Tagen	
-tamaño	Nomen	v. 2 Tagen	
+hacia	Präposition	v. 4 Tagen	
 vacaciones	Nomen	v. 2 Wochen	
 paraguas	Nomen	v. 2 Wochen	
-patos	Nomen	v. 4 Tagen	
-cena	Nomen	v. 6 Tagen	
-porque	Konjunktion	v. 6 Tagen	
-abiertas	Adjektiv	v. 7 Stunden	
-intelectuales	Adjektiv	v. 7 Stunden	
-chino	Adjektiv	v. 7 Stunden	
-españolas	Adjektiv	v. 7 Stunden	
-francés	Adjektiv	v. 7 Stunden	
-adelante	Adverb	v. 2 Tagen	
-pingüino	Nomen	v. 4 Tagen	
-araña	Nomen	v. 1 Monat	
+oigo	Verb	gestern	
+febrero	Nomen	v. 17 Stunden	
+solamente	Adverb	v. 3 Tagen	
 cubrir	Verb	v. 1 Monat	
-limpio	Verb	gestern	
-exactamente	Adverb	v. 2 Tagen	
+araña	Nomen	v. 1 Monat	
+cena	Nomen	v. 1 Woche	
+porque	Konjunktion	v. 1 Woche	
 come	Verb	v. 4 Monaten	
 bebe	Verb	v. 4 Monaten	
+numerosos	Adjektiv	gestern	
+patos	Nomen	v. 4 Tagen	
 igualmente	Adverb	v. 2 Wochen	
 emparedados	Nomen	v. 2 Wochen	
+último	Bestimmungswort	v. 16 Stunden	
+principalmente	Adverb	v. 3 Tagen	
+tamaño	Nomen	v. 3 Tagen	
+pingüino	Nomen	v. 4 Tagen	
 visita	Verb	v. 1 Woche	
-cuando	Konjunktion	v. 6 Tagen	
-comer	Verb	v. 4 Wochen	
-cangrejo	Nomen	v. 4 Tagen	
-ni	Konjunktion	v. 2 Wochen	
-mío	Adjektiv	v. 1 Woche	
-limón	Nomen	v. 1 Woche	
+amiga	Nomen	v. 2 Tagen	
+pareja	Nomen	v. 2 Tagen	
+adelante	Adverb	v. 3 Tagen	
+cuando	Konjunktion	v. 1 Woche	
+exactamente	Adverb	v. 3 Tagen	
 beben	Verb	v. 4 Monaten	
-tomate	Nomen	v. 1 Woche	
-caballos	Nomen	v. 1 Woche	
+profesional	Adjektiv	v. 16 Stunden	
+ni	Konjunktion	v. 2 Wochen	
 competencia	Nomen	v. 2 Monaten	
-culpa	Verb	v. 21 Stunden	
-también	Adverb	v. 2 Tagen	
-ocho	Zahl	v. 2 Tagen	
-cebolla	Nomen	v. 1 Woche	
+mío	Adjektiv	v. 1 Woche	
 un	Bestimmungswort	v. 3 Monaten	
-siete	Zahl	v. 2 Tagen	
+caballos	Nomen	v. 1 Woche	
 ir	Verb	v. 4 Wochen	
-seguramente	Adverb	v. 2 Tagen	
-debajo	Adverb	v. 2 Tagen	
-quizá	Adverb	v. 2 Tagen	
+cangrejo	Nomen	v. 4 Tagen	
 pronto	Adverb	v. 1 Monat	
-caer	Verb	v. 2 Monaten	
 una	Bestimmungswort	v. 3 Monaten	
+caer	Verb	v. 2 Monaten	
+limpio	Verb	v. 2 Tagen	
 realmente	Adverb	v. 2 Wochen	
-fruta	Nomen	v. 2 Wochen	
+dedos	Nomen	v. 1 Monat	
+dos	Zahl	v. 1 Monat	
 sentimiento	Nomen	v. 2 Monaten	
 celebración	Nomen	v. 2 Monaten	
 nervioso	Adjektiv	v. 2 Monaten	
@@ -1062,53 +1101,29 @@ amor	Nomen	v. 2 Monaten
 feliz	Adjektiv	v. 2 Monaten	
 felicidad	Nomen	v. 2 Monaten	
 tensión	Nomen	v. 2 Monaten	
-dos	Zahl	v. 1 Monat	
-dedos	Nomen	v. 1 Monat	
 cocinada	Verb	v. 2 Monaten	
 hecha	Verb	v. 2 Monaten	
 conocida	Verb	v. 2 Monaten	
-salsa	Nomen	v. 2 Monaten	
-llaves	Nomen	gestern	
+orden	Nomen	v. 1 Monat	
+también	Adverb	v. 3 Tagen	
+ocho	Zahl	v. 3 Tagen	
 acceso	Nomen	v. 2 Monaten	
 términos	Nomen	v. 2 Monaten	
 selecciones	Nomen	v. 2 Monaten	
-orden	Nomen	v. 1 Monat	
-lentamente	Adverb	v. 2 Tagen	
-ningún	Bestimmungswort	v. 2 Tagen	
-enfermera	Nomen	v. 2 Tagen	
+siete	Zahl	v. 3 Tagen	
+seguramente	Adverb	v. 3 Tagen	
+debajo	Adverb	v. 3 Tagen	
+parís	Eigenname	v. 2 Monaten	
+quizá	Adverb	v. 3 Tagen	
+quizás	Adverb	v. 2 Wochen	
+bastante	Adverb	v. 2 Wochen	
+cumpleaños	Nomen	v. 2 Wochen	
 ocasión	Nomen	v. 2 Monaten	
 aspecto	Nomen	v. 2 Monaten	
 principios	Nomen	v. 2 Monaten	
 memoria	Nomen	v. 2 Monaten	
-quizás	Adverb	v. 2 Wochen	
-bastante	Adverb	v. 2 Wochen	
-cumpleaños	Nomen	v. 2 Wochen	
-parís	Eigenname	v. 2 Monaten	
-documento	Nomen	gestern	
-armas	Nomen	gestern	
-recuerda	Verb	v. 21 Stunden	
-papa	Nomen	v. 1 Woche	
 tratar	Verb	v. 1 Monat	
 mundo	Nomen	v. 2 Monaten	
 mucho	Adverb	v. 2 Wochen	
-perros	Nomen	v. 2 Tagen	
-miro	Verb	v. 1 Woche	
-oficial	Nomen	v. 2 Monaten	
-oficiales	Nomen	v. 2 Monaten	
-objetivo	Nomen	v. 2 Monaten	
-importancia	Nomen	v. 2 Monaten	
-efecto	Nomen	v. 2 Monaten	
-capacidad	Nomen	v. 2 Monaten	
-seis	Zahl	v. 2 Tagen	
 antes	Adverb	v. 3 Wochen	
-alrededor	Adverb	v. 2 Tagen	
-sino	Konjunktion	v. 1 Woche	
-individuo	Nomen	gestern	
-escaleras	Nomen	gestern	
-piso	Nomen	gestern	
-movimientos	Nomen	v. 2 Monaten	
-actividades	Nomen	v. 2 Monaten	
-actividad	Nomen	v. 2 Monaten	
-posibilidades	Nomen	v. 2 Monaten	
-sector	Nomen	v. 2 Monaten	
-posibilidad	Nomen	v. 2 Monaten	
+miro	Verb	v. 1 Woche	
